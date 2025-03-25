@@ -16,6 +16,7 @@ When I'm not coding, you can find me breaking things just to fix them again. Let
 
 ## **📬 Get in Touch**  
 - 📧 Email: [heyhenriquecastro@gmail.com](mailto:heyhenriquecastro@gmail.com)  
-- 💼 LinkedIn: [Henrique C. Machado](https://www.linkedin.com/in/henriquecmachado/)  
+- 💼 LinkedIn: [Henrique C. Machado](https://www.linkedin.com/in/henriquecmachado/)
+- 💻 Website: [henriquecm.xyz](https://www.henriquecm.xyz/)
 
 Feel free to connect—I'm always open to discussing new projects, collaborations, and learning opportunities! 🚀  
