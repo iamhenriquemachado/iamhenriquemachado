@@ -13,6 +13,7 @@ When I'm not coding, you can find me breaking things just to fix them again. Let
 ## **📌 Projects**  
 - [DevUtilities](https://devutilities.vercel.app/) – A collection of useful development tools.  
 - [BiteCast AI](https://aibitecast-summarizer.vercel.app/) - AI-powered summarizer for YouTube videos and podcasts, delivering concise and insightful summaries.
+- [Computer Science Flash Cards](https://aibitecast-summarizer.vercel.app/) - Studying and learning through **spaced repetition** and **active recall**, focusing on **general knowledge** and **computer science**.
 
 ## **📬 Get in Touch**  
 - 📧 Email: [heyhenriquecastro@gmail.com](mailto:heyhenriquecastro@gmail.com)  
