@@ -6,8 +6,8 @@ When I'm not coding, you can find me breaking things just to fix them again. Let
 
 ## **Technical Experience**  
 
-- **Languages:** Python (Backend)  
-- **Frameworks:** FastAPI, Flask  
+- **Languages:** Python, C#
+- **Frameworks:** FastAPI, Flask, .NET
 - **Tools & Technologies:** Visual Studio Code, Git, Postman, Terminals  
 
 ## **📌 Projects**  
