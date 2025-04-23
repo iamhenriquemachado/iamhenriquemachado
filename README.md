@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Henrique. 
 
-Passionate about **backend development** and always up for a good challenge (especially if it involves debugging at 2 AM ☕). I build things with **Python, FastAPI, and Flask**, and I have a love-hate relationship with APIs.  
+Passionate about **backend development** and always up for a good challenge (especially if it involves debugging at 2 AM ☕). I build things with **Python, FastAPI, C# and .NET.**
 
 When I'm not coding, you can find me breaking things just to fix them again. Let's connect and build something awesome! 🚀🔥  
 
