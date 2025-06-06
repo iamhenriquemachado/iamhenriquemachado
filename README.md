@@ -14,8 +14,6 @@ When I'm not coding, you can find me breaking things just to fix them again. Let
 - [DevUtilities](https://devutilities.vercel.app/) – A collection of useful development tools.  
 - [BiteCast AI](https://aibitecast-summarizer.vercel.app/) - AI-powered summarizer for YouTube videos and podcasts, delivering concise and insightful summaries.
 - [Computer Science Flash Cards](https://personal-flashcards.vercel.app) - Studying and learning through **spaced repetition** and **active recall**, focusing on **general knowledge** and **computer science**.
-- [Gitverse](https://gitverse.dev) – A fun Git & GitHub guide for beginners. **🚧 Work in progress.**
-
 
 ## **📬 Get in Touch**  
 - 📧 Email: [heyhenriquecastro@gmail.com](mailto:heyhenriquecastro@gmail.com)  
