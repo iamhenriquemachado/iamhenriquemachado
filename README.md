@@ -1,23 +1,23 @@
-# 👋 Hey, I'm Henrique. 
+Hi, I'm Henrique — a fullstack developer who enjoys solving complex problems (especially those late-night debugging sessions). I work primarily with Python, FastAPI, C#, and .NET.
 
-Passionate about **backend development** and always up for a good challenge (especially if it involves debugging at 2 AM ☕). I build things with **Python, FastAPI, C# and .NET.**
+When I'm not coding, you'll probably find me exploring how things break — just so I can figure out how to fix them.
 
-When I'm not coding, you can find me breaking things just to fix them again. Let's connect and build something awesome! 🚀🔥  
+## Technical Experience
 
-## **Technical Experience**  
+**Languages:** Python, C#
+**Frameworks:** FastAPI, Flask, .NET, Next.js, React
+**Tools & Technologies:** Visual Studio Code, Git, Postman, terminals
 
-- **Languages:** Python, C#
-- **Frameworks:** FastAPI, Flask, .NET, NextJS, React
-- **Tools & Technologies:** Visual Studio Code, Git, Postman, Terminals  
+## Projects
 
-## **📌 Projects**  
-- [DevUtilities](https://devutilities.vercel.app/) – A collection of useful development tools.  
-- [BiteCast AI](https://aibitecast-summarizer.vercel.app/) - AI-powered summarizer for YouTube videos and podcasts, delivering concise and insightful summaries.
-- [Computer Science Flash Cards](https://personal-flashcards.vercel.app) - Studying and learning through **spaced repetition** and **active recall**, focusing on **general knowledge** and **computer science**.
+* **DevUtilities** – A collection of useful development tools.
+* **BiteCast AI** – AI-powered summarizer for YouTube videos and podcasts, delivering concise and insightful summaries.
+* **Computer Science Flash Cards** – A study tool using spaced repetition and active recall to reinforce CS and general tech knowledge.
 
-## **📬 Get in Touch**  
-- 📧 Email: [heyhenriquecastro@gmail.com](mailto:heyhenriquecastro@gmail.com)  
-- 💼 LinkedIn: [Henrique C. Machado](https://www.linkedin.com/in/henriquecmachado/)
-- 💻 Website: [henriquecm.xyz](https://www.henriquecm.xyz/)
+## Get in Touch
 
-Feel free to connect—I'm always open to discussing new projects, collaborations, and learning opportunities! 🚀  
+* **Email:** [heyhenriquecastro@gmail.com](mailto:heyhenriquecastro@gmail.com)
+* **LinkedIn:** [Henrique C. Machado](https://www.linkedin.com/in/henriquecmachado/)
+* **Website:** [henriquecm.xyz](https://henriquecm.xyz)
+
+Feel free to reach out — I'm always open to new projects, collaborations, and learning opportunities.
