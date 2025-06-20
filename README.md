@@ -1,21 +1,23 @@
-Hey, I'm Henrique!
+Hi, I'm Henrique — a backend development enthusiast who enjoys solving complex problems (especially those late-night debugging sessions). I work primarily with Python, FastAPI, C#, and .NET.
 
-🧑‍💻 FullStack Developer
-🇧🇷 Based in Brazil
+When I'm not coding, you'll probably find me exploring how things break — just so I can figure out how to fix them.
 
-What I'm working on: 
+## Technical Experience
 
-– Building useful tools with Python, FastAPI, C#, and .NET
-– Exploring how AI can make dev workflows smarter
-– Breaking things on purpose, just to fix them better
+**Languages:** Python, C#
+**Frameworks:** FastAPI, Flask, .NET, Next.js, React
+**Tools & Technologies:** Visual Studio Code, Git, Postman, terminals
 
-Find me elsewhere: 
+## Projects
 
-🌐 Website: https://www.henriquecm.xyz/about
-📧 Email: heyhenriquecastro@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/henriquecmachado/
+* **DevUtilities** – A collection of useful development tools.
+* **BiteCast AI** – AI-powered summarizer for YouTube videos and podcasts, delivering concise and insightful summaries.
+* **Computer Science Flash Cards** – A study tool using spaced repetition and active recall to reinforce CS and general tech knowledge.
 
-Projects: 
-– DevUtilities – Tools that make development smoother
-– BiteCast AI – Summarizer for YouTube videos and podcasts
-– Computer Science Flash Cards – Learning tech through spaced repetition
+## Get in Touch
+
+* **Email:** [heyhenriquecastro@gmail.com](mailto:heyhenriquecastro@gmail.com)
+* **LinkedIn:** [Henrique C. Machado](https://www.linkedin.com/in/henriquecmachado/)
+* **Website:** [henriquecm.xyz](https://henriquecm.xyz)
+
+Feel free to reach out — I'm always open to new projects, collaborations, and learning opportunities.
