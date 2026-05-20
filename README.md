@@ -1,6 +1,4 @@
-Hi, I'm Henrique — a backend developer who enjoys solving complex problems (especially those late-night debugging sessions). I work primarily with Python, FastAPI, C#, and .NET.
-
-When I'm not coding, you'll probably find me exploring how things break — just so I can figure out how to fix them.
+Hi, I'm Henrique — a backend developer who enjoys solving complex problems and building cool things using code. I work primarily with C# and.NET.
 
 ## Technical Experience
 
