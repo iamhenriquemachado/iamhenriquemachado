@@ -18,10 +18,9 @@ Outside of coding, I'm also interested in AI 🤖, Brazilian Jiu-Jitsu 🥋, and
 
 ## Featured Projects 🚀
 
-### [Clipstack Manager](https://github.com/iamhenriquemachado/clipstack-manager)
+[Clipstack Manager](https://github.com/iamhenriquemachado/clipstack-manager)
 
 Currently building a desktop clipboard manager focused on privacy and productivity.
-
 Clipstack stores your clipboard history locally, meaning your data never leaves your machine 🔒
 
 ---
